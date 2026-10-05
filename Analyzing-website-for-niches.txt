@@ -1,0 +1,13 @@
+clairvoyance-github-repo/
+├── README.md (with all links)
+├── .env.example (pre-filled for siobahnvisconti.com)
+├── assets/clairvoyance_sv_shield_transparent.png
+├── supabase/schema.sql (7 tables + seed)
+├── lovable/project.json + campaigns_export.csv
+├── connectors/
+│   ├── gmail/ (oauth_callback.ts + gmailService.ts + README)
+│   ├── calendar/, sheets/, docs/, supabase/, lovable/
+└── docs/
+    ├── Gmail_Domain_Setup.md
+    ├── ADDING_CLAIRVOYANCE_APP.md
+    ├── UPDATED_2026_UI_GUIDE.md (fixes your Admin UI issue)
